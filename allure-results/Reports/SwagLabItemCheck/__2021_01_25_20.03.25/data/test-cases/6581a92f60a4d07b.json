@@ -1,0 +1,144 @@
+{
+  "uid" : "6581a92f60a4d07b",
+  "name" : "swagLabItemCheck_001_verifyLoginApplication",
+  "fullName" : "Tests.SwagLabItemCheckTest.swagLabItemCheck_001_verifyLoginApplication",
+  "historyId" : "16231918f876fec500135e648aedf40a",
+  "time" : {
+    "start" : 1611584088395,
+    "stop" : 1611584101456,
+    "duration" : 13061
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1611584078057,
+      "stop" : 1611584088182,
+      "duration" : 10125
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "TestCase_001 - verify Login Application",
+      "time" : {
+        "start" : 1611584088449,
+        "stop" : 1611584100955,
+        "duration" : 12506
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Success Message: ",
+        "time" : {
+          "start" : 1611584100955,
+          "stop" : 1611584100955,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "message",
+          "value" : "verify user login successfully to application."
+        } ],
+        "hasContent" : true,
+        "stepsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0
+      } ],
+      "attachments" : [ {
+        "uid" : "ca0225bb9a4877c3",
+        "name" : "Page Screenshot",
+        "source" : "ca0225bb9a4877c3.png",
+        "type" : "image/png",
+        "size" : 60973
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ {
+      "uid" : "a028f25f8a4046bf",
+      "name" : "Page Screenshot",
+      "source" : "a028f25f8a4046bf.png",
+      "type" : "image/png",
+      "size" : 256259
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1611584122662,
+      "stop" : 1611584157280,
+      "duration" : 34618
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Tests.SwagLabItemCheckTest"
+  }, {
+    "name" : "testClass",
+    "value" : "Tests.SwagLabItemCheckTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "swagLabItemCheck_001_verifyLoginApplication"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "SwagLabAutomation"
+  }, {
+    "name" : "subSuite",
+    "value" : "Tests.SwagLabItemCheckTest"
+  }, {
+    "name" : "host",
+    "value" : "Bhumit-PC"
+  }, {
+    "name" : "thread",
+    "value" : "9712@Bhumit-PC.main(1)"
+  }, {
+    "name" : "epic",
+    "value" : "Regression Test Suite - Login Details"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6581a92f60a4d07b.json",
+  "parameterValues" : [ ]
+}

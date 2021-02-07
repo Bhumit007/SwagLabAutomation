@@ -1,0 +1,126 @@
+{
+  "uid" : "40d08bd6f4683a1a",
+  "name" : "swagLabItemCheck_010_verifyLogout",
+  "fullName" : "Tests.SwagLabItemCheckTest.swagLabItemCheck_010_verifyLogout",
+  "historyId" : "dd2deae7ca5b1a3c816bae14418c86db",
+  "time" : {
+    "start" : 1611553488654,
+    "stop" : 1611553491453,
+    "duration" : 2799
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1611553428341,
+      "stop" : 1611553439241,
+      "duration" : 10900
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "TestCase_009_ Verify Successfully Logout",
+      "time" : {
+        "start" : 1611553488655,
+        "stop" : 1611553490997,
+        "duration" : 2342
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "145895495abc3d6b",
+        "name" : "Page Screenshot",
+        "source" : "145895495abc3d6b.png",
+        "type" : "image/png",
+        "size" : 145183
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ {
+      "uid" : "d0d90dedb281e877",
+      "name" : "Page Screenshot",
+      "source" : "d0d90dedb281e877.png",
+      "type" : "image/png",
+      "size" : 101547
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1611553491508,
+      "stop" : 1611553528097,
+      "duration" : 36589
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Tests.SwagLabItemCheckTest"
+  }, {
+    "name" : "testClass",
+    "value" : "Tests.SwagLabItemCheckTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "swagLabItemCheck_010_verifyLogout"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "SwagLabAutomation"
+  }, {
+    "name" : "subSuite",
+    "value" : "Tests.SwagLabItemCheckTest"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-VOJDR2PL"
+  }, {
+    "name" : "thread",
+    "value" : "11932@LAPTOP-VOJDR2PL.main(1)"
+  }, {
+    "name" : "epic",
+    "value" : "Regression Test Suite - Login Details"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "40d08bd6f4683a1a.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,29 @@
+25-01-2021 20:02:59 INFO [DriverFactory$Log]: Enter Username.
+25-01-2021 20:02:59 INFO [DriverFactory$Log]: Enter Password.
+25-01-2021 20:03:03 INFO [DriverFactory$Log]: Click On Login Button.
+25-01-2021 20:03:03 INFO [DriverFactory$Log]: Product Label Displayed.
+25-01-2021 20:03:03 INFO [DriverFactory$Log]: Login Successfully.
+25-01-2021 20:03:05 INFO [DriverFactory$Log]: Select Price Filter from drop down.
+25-01-2021 20:03:08 INFO [DriverFactory$Log]: Two Product Add into Cart.
+25-01-2021 20:03:09 INFO [DriverFactory$Log]: verify product added.
+25-01-2021 20:03:11 INFO [DriverFactory$Log]: Get Product Details before Click on Cart Icon.
+25-01-2021 20:03:11 INFO [DriverFactory$Log]: Click on Cart Icon.
+25-01-2021 20:03:11 INFO [DriverFactory$Log]: Get Product Details After Click on Cart Icon.
+25-01-2021 20:03:12 INFO [DriverFactory$Log]: Verify Product Details.
+25-01-2021 20:03:13 INFO [DriverFactory$Log]: Click on CheckOut Button.
+25-01-2021 20:03:14 INFO [DriverFactory$Log]: Enter First Name.
+25-01-2021 20:03:14 INFO [DriverFactory$Log]: Enter Last Name.
+25-01-2021 20:03:15 INFO [DriverFactory$Log]: Enter ZipCode.
+25-01-2021 20:03:15 INFO [DriverFactory$Log]: Enter Checkout details.
+25-01-2021 20:03:17 INFO [DriverFactory$Log]: Click On Checkout Continue Button.
+25-01-2021 20:03:18 INFO [DriverFactory$Log]: Verify Payment Information.
+25-01-2021 20:03:18 INFO [DriverFactory$Log]: Verify Shipping Information.
+25-01-2021 20:03:19 INFO [DriverFactory$Log]: Get Product sub total.
+25-01-2021 20:03:19 INFO [DriverFactory$Log]: Get Product Tax.
+25-01-2021 20:03:20 INFO [DriverFactory$Log]: Get Product Total Amount.
+25-01-2021 20:03:20 INFO [DriverFactory$Log]: verify Total Product Price.
+25-01-2021 20:03:21 INFO [DriverFactory$Log]: Click on Finish Button.
+25-01-2021 20:03:22 INFO [DriverFactory$Log]: Verify Success Message For Order Placed.
+25-01-2021 20:03:23 INFO [DriverFactory$Log]: Click on Menu Button.
+25-01-2021 20:03:24 INFO [DriverFactory$Log]: Click on Logout Button.
+25-01-2021 20:03:24 INFO [DriverFactory$Log]: Verify Successfully Logout

@@ -1,0 +1,251 @@
+{
+  "uid" : "618e7fa6123440a5",
+  "name" : "swagLabItemCheck_010_verifyLogout",
+  "fullName" : "Tests.SwagLabItemCheckTest.swagLabItemCheck_010_verifyLogout",
+  "historyId" : "dd2deae7ca5b1a3c816bae14418c86db",
+  "time" : {
+    "start" : 1611585202915,
+    "stop" : 1611585205171,
+    "duration" : 2256
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "TestCase_009_ Verify Successfully Logout",
+      "time" : {
+        "start" : 1611585202915,
+        "stop" : 1611585204816,
+        "duration" : 1901
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "6195d90e08d2fba0",
+        "name" : "Page Screenshot",
+        "source" : "6195d90e08d2fba0.png",
+        "type" : "image/png",
+        "size" : 78652
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ {
+      "uid" : "72a7f07191c70342",
+      "name" : "Page Screenshot",
+      "source" : "72a7f07191c70342.png",
+      "type" : "image/png",
+      "size" : 62067
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Tests.SwagLabItemCheckTest"
+  }, {
+    "name" : "testClass",
+    "value" : "Tests.SwagLabItemCheckTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "swagLabItemCheck_010_verifyLogout"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "SwagLabAutomation"
+  }, {
+    "name" : "subSuite",
+    "value" : "Tests.SwagLabItemCheckTest"
+  }, {
+    "name" : "host",
+    "value" : "Bhumit-PC"
+  }, {
+    "name" : "thread",
+    "value" : "18572@Bhumit-PC.main(1)"
+  }, {
+    "name" : "epic",
+    "value" : "Regression Test Suite - Login Details"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7211cc655e9a5214",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611584395469,
+        "stop" : 1611584397657,
+        "duration" : 2188
+      }
+    }, {
+      "uid" : "b001aa5fb17a832a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611584120321,
+        "stop" : 1611584122631,
+        "duration" : 2310
+      }
+    }, {
+      "uid" : "93f4cd313eaed8d8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611569529870,
+        "stop" : 1611569533108,
+        "duration" : 3238
+      }
+    }, {
+      "uid" : "648fcba8d36711dd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611569276277,
+        "stop" : 1611569278448,
+        "duration" : 2171
+      }
+    }, {
+      "uid" : "8110103f3afee594",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611568832765,
+        "stop" : 1611568837064,
+        "duration" : 4299
+      }
+    }, {
+      "uid" : "9294e1cc9bcd3e95",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611568427887,
+        "stop" : 1611568474510,
+        "duration" : 46623
+      }
+    }, {
+      "uid" : "8f4e604711729da5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611567429888,
+        "stop" : 1611567433552,
+        "duration" : 3664
+      }
+    }, {
+      "uid" : "9f7e07f7df760693",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611559312411,
+        "stop" : 1611559316198,
+        "duration" : 3787
+      }
+    }, {
+      "uid" : "5681fb0436797792",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611555721390,
+        "stop" : 1611555724119,
+        "duration" : 2729
+      }
+    }, {
+      "uid" : "bcb92c1bbc90e191",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611555252125,
+        "stop" : 1611555257693,
+        "duration" : 5568
+      }
+    }, {
+      "uid" : "7f6f71ff3553795f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611554790653,
+        "stop" : 1611554793186,
+        "duration" : 2533
+      }
+    }, {
+      "uid" : "cccdd5e0a67a6f62",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611554385566,
+        "stop" : 1611554388369,
+        "duration" : 2803
+      }
+    }, {
+      "uid" : "40d08bd6f4683a1a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611553488654,
+        "stop" : 1611553491453,
+        "duration" : 2799
+      }
+    }, {
+      "uid" : "b72ea9df51241a51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611553146951,
+        "stop" : 1611553155854,
+        "duration" : 8903
+      }
+    }, {
+      "uid" : "40361a23d6100b0c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611552267866,
+        "stop" : 1611552269963,
+        "duration" : 2097
+      }
+    }, {
+      "uid" : "4c7563575fe3c8f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611551266587,
+        "stop" : 1611551269745,
+        "duration" : 3158
+      }
+    }, {
+      "uid" : "8d88b9a5913426f1",
+      "status" : "skipped",
+      "statusDetails" : "Timed out waiting for driver server to start.\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'LAPTOP-VOJDR2PL', ip: '192.168.43.59', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'\nDriver info: driver.version: ChromeDriver",
+      "time" : {
+        "start" : 1611551164839,
+        "stop" : 1611551164841,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "6eeba6c20ac6e6f5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611496425546,
+        "stop" : 1611496427737,
+        "duration" : 2191
+      }
+    }, {
+      "uid" : "1d58342e5dc6720f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611495401985,
+        "stop" : 1611495404594,
+        "duration" : 2609
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "618e7fa6123440a5.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,150 @@
+{
+  "uid" : "525020406b4de1fc",
+  "name" : "swagLabItemCheck_002_verifyProductAdded",
+  "fullName" : "Tests.SwagLabItemCheckTest.swagLabItemCheck_002_verifyProductAdded",
+  "historyId" : "bb2f56439278499d561ee4629ac73f15",
+  "time" : {
+    "start" : 1611555228248,
+    "stop" : 1611555233633,
+    "duration" : 5385
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1611555136468,
+      "stop" : 1611555175099,
+      "duration" : 38631
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "TestCase_002 - verify product added",
+      "time" : {
+        "start" : 1611555228249,
+        "stop" : 1611555232945,
+        "duration" : 4696
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Success Message: ",
+        "time" : {
+          "start" : 1611555232944,
+          "stop" : 1611555232944,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "message",
+          "value" : "verify product added."
+        } ],
+        "hasContent" : true,
+        "stepsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0
+      } ],
+      "attachments" : [ {
+        "uid" : "25ece2c33cb0ae8a",
+        "name" : "Page Screenshot",
+        "source" : "25ece2c33cb0ae8a.png",
+        "type" : "image/png",
+        "size" : 450736
+      }, {
+        "uid" : "d24467d632249abc",
+        "name" : "Page Screenshot",
+        "source" : "d24467d632249abc.png",
+        "type" : "image/png",
+        "size" : 452715
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    } ],
+    "attachments" : [ {
+      "uid" : "12c800939e630a15",
+      "name" : "Page Screenshot",
+      "source" : "12c800939e630a15.png",
+      "type" : "image/png",
+      "size" : 452715
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 3
+  },
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1611555257996,
+      "stop" : 1611555280158,
+      "duration" : 22162
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Tests.SwagLabItemCheckTest"
+  }, {
+    "name" : "testClass",
+    "value" : "Tests.SwagLabItemCheckTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "swagLabItemCheck_002_verifyProductAdded"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "SwagLabAutomation"
+  }, {
+    "name" : "subSuite",
+    "value" : "Tests.SwagLabItemCheckTest"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-VOJDR2PL"
+  }, {
+    "name" : "thread",
+    "value" : "19280@LAPTOP-VOJDR2PL.main(1)"
+  }, {
+    "name" : "epic",
+    "value" : "Regression Test Suite - Login Details"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "525020406b4de1fc.json",
+  "parameterValues" : [ ]
+}

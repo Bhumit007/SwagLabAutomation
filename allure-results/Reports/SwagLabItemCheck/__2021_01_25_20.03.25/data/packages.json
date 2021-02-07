@@ -1,0 +1,129 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Tests.SwagLabItemCheckTest",
+    "children" : [ {
+      "name" : "swagLabItemCheck_001_verifyLoginApplication",
+      "uid" : "eb775c84dd9fbc8a",
+      "parentUid" : "78584a7705eb285476b32801d5cfa8a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611585173002,
+        "stop" : 1611585184146,
+        "duration" : 11144
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "swagLabItemCheck_002_verifyProductAdded",
+      "uid" : "10973964624bdeda",
+      "parentUid" : "78584a7705eb285476b32801d5cfa8a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611585184518,
+        "stop" : 1611585189859,
+        "duration" : 5341
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "swagLabItemCheck_003_verifyProductDetails",
+      "uid" : "8e31d1fae923ef55",
+      "parentUid" : "78584a7705eb285476b32801d5cfa8a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611585189859,
+        "stop" : 1611585192649,
+        "duration" : 2790
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "swagLabItemCheck_004_clickOnCheckOutButton",
+      "uid" : "d45dcb4df1ce07cb",
+      "parentUid" : "78584a7705eb285476b32801d5cfa8a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611585192649,
+        "stop" : 1611585194141,
+        "duration" : 1492
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "swagLabItemCheck_005_enterCheckoutDetailsAndClickOnContinue",
+      "uid" : "fc92386cd4d5db6e",
+      "parentUid" : "78584a7705eb285476b32801d5cfa8a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611585194151,
+        "stop" : 1611585197536,
+        "duration" : 3385
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "swagLabItemCheck_006_verifyPaymentInformation",
+      "uid" : "38b581b36338b86e",
+      "parentUid" : "78584a7705eb285476b32801d5cfa8a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611585197552,
+        "stop" : 1611585198376,
+        "duration" : 824
+      },
+      "flaky" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "swagLabItemCheck_007_verifyShippingInformation",
+      "uid" : "bc2fe1814561484b",
+      "parentUid" : "78584a7705eb285476b32801d5cfa8a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611585198391,
+        "stop" : 1611585199224,
+        "duration" : 833
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "swagLabItemCheck_008_verifyTotalAmount",
+      "uid" : "f8a3eb34168e8ff2",
+      "parentUid" : "78584a7705eb285476b32801d5cfa8a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611585199239,
+        "stop" : 1611585200758,
+        "duration" : 1519
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "swagLabItemCheck_009_verifyOrderPlaced",
+      "uid" : "c44754a7da4ccbef",
+      "parentUid" : "78584a7705eb285476b32801d5cfa8a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611585200764,
+        "stop" : 1611585202915,
+        "duration" : 2151
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "swagLabItemCheck_010_verifyLogout",
+      "uid" : "618e7fa6123440a5",
+      "parentUid" : "78584a7705eb285476b32801d5cfa8a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611585202915,
+        "stop" : 1611585205171,
+        "duration" : 2256
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "Tests.SwagLabItemCheckTest"
+  } ]
+}

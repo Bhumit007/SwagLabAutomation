@@ -1,0 +1,263 @@
+{
+  "uid" : "d45dcb4df1ce07cb",
+  "name" : "swagLabItemCheck_004_clickOnCheckOutButton",
+  "fullName" : "Tests.SwagLabItemCheckTest.swagLabItemCheck_004_clickOnCheckOutButton",
+  "historyId" : "2660b824f3b142b727a58f6194bcaadb",
+  "time" : {
+    "start" : 1611585192649,
+    "stop" : 1611585194141,
+    "duration" : 1492
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "TestCase_004 - click checkout button",
+      "time" : {
+        "start" : 1611585192649,
+        "stop" : 1611585193811,
+        "duration" : 1162
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Success Message: ",
+        "time" : {
+          "start" : 1611585193811,
+          "stop" : 1611585193811,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "message",
+          "value" : "click on CheckOut Button."
+        } ],
+        "hasContent" : true,
+        "stepsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "1c42c011cbd9a055",
+      "name" : "Page Screenshot",
+      "source" : "1c42c011cbd9a055.png",
+      "type" : "image/png",
+      "size" : 30818
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Tests.SwagLabItemCheckTest"
+  }, {
+    "name" : "testClass",
+    "value" : "Tests.SwagLabItemCheckTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "swagLabItemCheck_004_clickOnCheckOutButton"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "SwagLabAutomation"
+  }, {
+    "name" : "subSuite",
+    "value" : "Tests.SwagLabItemCheckTest"
+  }, {
+    "name" : "host",
+    "value" : "Bhumit-PC"
+  }, {
+    "name" : "thread",
+    "value" : "18572@Bhumit-PC.main(1)"
+  }, {
+    "name" : "epic",
+    "value" : "Regression Test Suite - Login Details"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1b4eb2cb531d3613",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611584386562,
+        "stop" : 1611584387826,
+        "duration" : 1264
+      }
+    }, {
+      "uid" : "2cbb37530e94afb8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611584109973,
+        "stop" : 1611584111373,
+        "duration" : 1400
+      }
+    }, {
+      "uid" : "dc7af8d62b35c0d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611569502326,
+        "stop" : 1611569504928,
+        "duration" : 2602
+      }
+    }, {
+      "uid" : "b33d86aba3c72d40",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611569265195,
+        "stop" : 1611569267843,
+        "duration" : 2648
+      }
+    }, {
+      "uid" : "2072a3e2e0e58cdc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611568763893,
+        "stop" : 1611568773766,
+        "duration" : 9873
+      }
+    }, {
+      "uid" : "8a9c7110a11b9e33",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611568362104,
+        "stop" : 1611568366749,
+        "duration" : 4645
+      }
+    }, {
+      "uid" : "2368386e93705e58",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611567404909,
+        "stop" : 1611567416463,
+        "duration" : 11554
+      }
+    }, {
+      "uid" : "e7357d55618c814e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611559289085,
+        "stop" : 1611559290224,
+        "duration" : 1139
+      }
+    }, {
+      "uid" : "790bcdbb85978410",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611555712788,
+        "stop" : 1611555714314,
+        "duration" : 1526
+      }
+    }, {
+      "uid" : "b2d4c474d8d0aa77",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611555237019,
+        "stop" : 1611555238479,
+        "duration" : 1460
+      }
+    }, {
+      "uid" : "14e17aa45c1adb1f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611554782685,
+        "stop" : 1611554783956,
+        "duration" : 1271
+      }
+    }, {
+      "uid" : "ae08a281fb0fadc5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611554372596,
+        "stop" : 1611554373773,
+        "duration" : 1177
+      }
+    }, {
+      "uid" : "55065169e5b04fb4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611553478919,
+        "stop" : 1611553482401,
+        "duration" : 3482
+      }
+    }, {
+      "uid" : "46706572bfb3b498",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611553139942,
+        "stop" : 1611553141101,
+        "duration" : 1159
+      }
+    }, {
+      "uid" : "d760e707a460ecd8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611552247845,
+        "stop" : 1611552248862,
+        "duration" : 1017
+      }
+    }, {
+      "uid" : "be0c0fb7c198a7ca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611551260486,
+        "stop" : 1611551261157,
+        "duration" : 671
+      }
+    }, {
+      "uid" : "44827e7d1cbdd0cb",
+      "status" : "skipped",
+      "statusDetails" : "Timed out waiting for driver server to start.\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'LAPTOP-VOJDR2PL', ip: '192.168.43.59', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'\nDriver info: driver.version: ChromeDriver",
+      "time" : {
+        "start" : 1611551164396,
+        "stop" : 1611551164397,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "bf738024a8c8f36d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611496418678,
+        "stop" : 1611496419483,
+        "duration" : 805
+      }
+    }, {
+      "uid" : "d47d6d65fe35dd78",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611495394995,
+        "stop" : 1611495396441,
+        "duration" : 1446
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d45dcb4df1ce07cb.json",
+  "parameterValues" : [ ]
+}

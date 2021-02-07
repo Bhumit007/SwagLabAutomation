@@ -1,0 +1,269 @@
+{
+  "uid" : "fc92386cd4d5db6e",
+  "name" : "swagLabItemCheck_005_enterCheckoutDetailsAndClickOnContinue",
+  "fullName" : "Tests.SwagLabItemCheckTest.swagLabItemCheck_005_enterCheckoutDetailsAndClickOnContinue",
+  "historyId" : "7862feca644c26a811fe729b3eb208fb",
+  "time" : {
+    "start" : 1611585194151,
+    "stop" : 1611585197536,
+    "duration" : 3385
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "TestCase_005 - enter checkout details And Click On Continue",
+      "time" : {
+        "start" : 1611585194151,
+        "stop" : 1611585197218,
+        "duration" : 3067
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Success Message: ",
+        "time" : {
+          "start" : 1611585197218,
+          "stop" : 1611585197218,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "message",
+          "value" : "Click On Checkout Continue Button."
+        } ],
+        "hasContent" : true,
+        "stepsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0
+      } ],
+      "attachments" : [ {
+        "uid" : "6d7f3a331f6a000",
+        "name" : "Page Screenshot",
+        "source" : "6d7f3a331f6a000.png",
+        "type" : "image/png",
+        "size" : 28789
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ {
+      "uid" : "4c0dda972f7a19bb",
+      "name" : "Page Screenshot",
+      "source" : "4c0dda972f7a19bb.png",
+      "type" : "image/png",
+      "size" : 47180
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Tests.SwagLabItemCheckTest"
+  }, {
+    "name" : "testClass",
+    "value" : "Tests.SwagLabItemCheckTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "swagLabItemCheck_005_enterCheckoutDetailsAndClickOnContinue"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "SwagLabAutomation"
+  }, {
+    "name" : "subSuite",
+    "value" : "Tests.SwagLabItemCheckTest"
+  }, {
+    "name" : "host",
+    "value" : "Bhumit-PC"
+  }, {
+    "name" : "thread",
+    "value" : "18572@Bhumit-PC.main(1)"
+  }, {
+    "name" : "epic",
+    "value" : "Regression Test Suite - Login Details"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e1c808a0800c09be",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611584387841,
+        "stop" : 1611584391058,
+        "duration" : 3217
+      }
+    }, {
+      "uid" : "cc297f3e3ee5a82",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611584111375,
+        "stop" : 1611584115066,
+        "duration" : 3691
+      }
+    }, {
+      "uid" : "4bdab1f120379ccc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611569504935,
+        "stop" : 1611569514379,
+        "duration" : 9444
+      }
+    }, {
+      "uid" : "5a287344a6002b98",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611569267862,
+        "stop" : 1611569269748,
+        "duration" : 1886
+      }
+    }, {
+      "uid" : "ce65ed0b69ac87be",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611568773780,
+        "stop" : 1611568814772,
+        "duration" : 40992
+      }
+    }, {
+      "uid" : "20afd050c669a996",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611568366753,
+        "stop" : 1611568387872,
+        "duration" : 21119
+      }
+    }, {
+      "uid" : "b88fb9c6550e31ff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611567416471,
+        "stop" : 1611567421289,
+        "duration" : 4818
+      }
+    }, {
+      "uid" : "c2a9cb4c43c05539",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611559290230,
+        "stop" : 1611559294858,
+        "duration" : 4628
+      }
+    }, {
+      "uid" : "cf78e32d43efa2b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611555714320,
+        "stop" : 1611555717163,
+        "duration" : 2843
+      }
+    }, {
+      "uid" : "31da8cd6a21667f1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611555238485,
+        "stop" : 1611555242927,
+        "duration" : 4442
+      }
+    }, {
+      "uid" : "286e2b585fe92f1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611554783962,
+        "stop" : 1611554786816,
+        "duration" : 2854
+      }
+    }, {
+      "uid" : "bd4ae66c6de0fc71",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611554373842,
+        "stop" : 1611554381099,
+        "duration" : 7257
+      }
+    }, {
+      "uid" : "8dbc4cfebd1d352c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611553482406,
+        "stop" : 1611553485029,
+        "duration" : 2623
+      }
+    }, {
+      "uid" : "c15e84ec2fdb5df4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611553141107,
+        "stop" : 1611553143367,
+        "duration" : 2260
+      }
+    }, {
+      "uid" : "e9c5c68076ca93cf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611552250707,
+        "stop" : 1611552254121,
+        "duration" : 3414
+      }
+    }, {
+      "uid" : "9609f0ee89d454d0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611551261160,
+        "stop" : 1611551263390,
+        "duration" : 2230
+      }
+    }, {
+      "uid" : "1c969be1ebe117f1",
+      "status" : "skipped",
+      "statusDetails" : "Timed out waiting for driver server to start.\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'LAPTOP-VOJDR2PL', ip: '192.168.43.59', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'\nDriver info: driver.version: ChromeDriver",
+      "time" : {
+        "start" : 1611551164410,
+        "stop" : 1611551164412,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "843d204aa4454dad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611496420108,
+        "stop" : 1611496422194,
+        "duration" : 2086
+      }
+    }, {
+      "uid" : "c7bfd99695229435",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611495396444,
+        "stop" : 1611495398074,
+        "duration" : 1630
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fc92386cd4d5db6e.json",
+  "parameterValues" : [ ]
+}

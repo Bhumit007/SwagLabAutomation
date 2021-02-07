@@ -1,0 +1,29 @@
+25-01-2021 19:49:33 INFO [DriverFactory$Log]: Enter Username.
+25-01-2021 19:49:34 INFO [DriverFactory$Log]: Enter Password.
+25-01-2021 19:49:37 INFO [DriverFactory$Log]: Click On Login Button.
+25-01-2021 19:49:37 INFO [DriverFactory$Log]: Product Label Displayed.
+25-01-2021 19:49:37 INFO [DriverFactory$Log]: Login Successfully.
+25-01-2021 19:49:39 INFO [DriverFactory$Log]: Select Price Filter from drop down.
+25-01-2021 19:49:41 INFO [DriverFactory$Log]: Two Product Add into Cart.
+25-01-2021 19:49:43 INFO [DriverFactory$Log]: verify product added.
+25-01-2021 19:49:45 INFO [DriverFactory$Log]: Get Product Details before Click on Cart Icon.
+25-01-2021 19:49:45 INFO [DriverFactory$Log]: Click on Cart Icon.
+25-01-2021 19:49:45 INFO [DriverFactory$Log]: Get Product Details After Click on Cart Icon.
+25-01-2021 19:49:46 INFO [DriverFactory$Log]: Verify Product Details.
+25-01-2021 19:49:47 INFO [DriverFactory$Log]: Click on CheckOut Button.
+25-01-2021 19:49:48 INFO [DriverFactory$Log]: Enter First Name.
+25-01-2021 19:49:48 INFO [DriverFactory$Log]: Enter Last Name.
+25-01-2021 19:49:49 INFO [DriverFactory$Log]: Enter ZipCode.
+25-01-2021 19:49:49 INFO [DriverFactory$Log]: Enter Checkout details.
+25-01-2021 19:49:50 INFO [DriverFactory$Log]: Click On Checkout Continue Button.
+25-01-2021 19:49:51 ERROR[DriverFactory$Log]: User could not Verify Payment Information.java.lang.AssertionError: expected [SauceCa] but found [SauceCard #31337]
+25-01-2021 19:49:51 INFO [DriverFactory$Log]: Verify Shipping Information.
+25-01-2021 19:49:52 INFO [DriverFactory$Log]: Get Product sub total.
+25-01-2021 19:49:52 INFO [DriverFactory$Log]: Get Product Tax.
+25-01-2021 19:49:53 INFO [DriverFactory$Log]: Get Product Total Amount.
+25-01-2021 19:49:53 INFO [DriverFactory$Log]: verify Total Product Price.
+25-01-2021 19:49:54 INFO [DriverFactory$Log]: Click on Finish Button.
+25-01-2021 19:49:55 INFO [DriverFactory$Log]: Verify Success Message For Order Placed.
+25-01-2021 19:49:56 INFO [DriverFactory$Log]: Click on Menu Button.
+25-01-2021 19:49:56 INFO [DriverFactory$Log]: Click on Logout Button.
+25-01-2021 19:49:57 INFO [DriverFactory$Log]: Verify Successfully Logout
